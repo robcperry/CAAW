@@ -4669,7 +4669,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		background-attachment: fixed;
-		background-image: url("../../images/pic01.jpg");
+		background-image: url("../../images/kitchen3.jpg");
 		background-position: bottom left;
 		background-size: cover;
 		border-top: solid 10px #5ac3d6;
@@ -4677,6 +4677,8 @@ input, select, textarea {
 		position: relative;
 		text-align: center;
 		width: 100%;
+		
+		
 	}
 
 		#banner input, #banner select, #banner textarea {
@@ -4785,6 +4787,7 @@ input, select, textarea {
 
 		#banner h1 {
 			margin-bottom: 0.825em;
+			color: #ffffff;
 		}
 
 		#banner p {
